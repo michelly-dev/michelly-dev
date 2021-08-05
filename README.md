@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/michelly-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelly-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private_true&locale=pt-BR"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelly-dev&layout=compact&langs_count=16&theme=dracula&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelly-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private_true&locale=pt-BR&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelly-dev&layout=compact&langs_count=16&theme=dracula&locale=pt-BR&hide_border=true"/>
  </div>
   
   <div style="display: inline_block"><br>
