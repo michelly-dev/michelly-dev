@@ -1,4 +1,5 @@
 - 👋 Olá, eu sou a Michelly Silva!
+
 - 👀 Tenho muito interesse em aprender cada dia mais. E produro novos desafios.
 - 🌱 Hoje estou estudando HTML, CSS, Adonis.js, JavaScript e React Native.
 - 💞️ Procuro colaborar sempre em meu aprendizado todos os dias.
